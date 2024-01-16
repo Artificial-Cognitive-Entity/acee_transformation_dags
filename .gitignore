@@ -1,0 +1,14 @@
+.git
+.env
+.DS_Store # macOS specific ignore
+airflow_settings.yaml
+__pycache__/
+ETL_Sandbox/
+astro
+.venv
+.env
+airflow-webserver.pid
+webserver_config.py
+airflow.cfg
+airflow.db
+acee-sd-8fe5a53c5a36.json
